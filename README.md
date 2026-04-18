@@ -196,9 +196,9 @@ volorch/
 
 ## Author
 
-Built by **Adarsh** — cybersecurity faculty, digital forensics researcher, malware analyst.
+Built by **Adarsh** — Assistant Professor, Digital forensics researcher.
 
-- Instagram / LinkedIn: [@italkforensics](https://www.instagram.com/italkforensics)
+- Instagram / LinkedIn: [@italkforensics](https://www.instagram.com/italkforensics) [Adarsh V P](https://www.linkedin.com/in/adarsh-v-p
 
 ---
 
